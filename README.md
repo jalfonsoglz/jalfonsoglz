@@ -49,10 +49,11 @@ Si el crecimiento de tu empresa está generando desorden porque la información 
   <a href="https://ntropy.tech/odoo/"><img src="https://img.shields.io/badge/Consultoría-Ntropy.tech-black?style=for-the-badge&logo=odoo" alt="Ntropy.tech"></a>
 </div>
 
-  
-<a href="https://github.com/jalfonsoglz/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/jalfonsoglz/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<br>
+
+<!-- <a href="https://github.com/jalfonsoglz/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/jalfonsoglz/awesome-github-profile-readme" alt="Stars Badge"/></a>
 <a href="https://github.com/jalfonsoglz/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/jalfonsoglz/awesome-github-profile-readme" alt="Forks Badge"/></a>
 <a href="https://github.com/jalfonsoglz/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/jalfonsoglz/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/jalfonsoglz/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/jalfonsoglz/awesome-github-profile-readme" alt="Issues Badge"/></a>      
 <a href="https://github.com/jalfonsoglz/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/jalfonsoglz/awesome-github-profile-readme?color=2b9348"></a>
-<a href="https://github.com/jalfonsoglz/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/jalfonsoglz/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/jalfonsoglz/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/jalfonsoglz/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a> -->
